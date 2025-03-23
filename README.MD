@@ -38,7 +38,7 @@ Edit
 ⚙️ Setup & Installation
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-repo/icu-care-unit.git
+git clone https://github.com/Harshithkumarkm2002/ICU-Care-Unit-for-Coma-Patients
 cd icu-care-unit
 
 2️⃣ Install Dependencies
